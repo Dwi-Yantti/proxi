@@ -1,2 +1,2 @@
 # proxi
-Proxi all country
+Proxy all country
